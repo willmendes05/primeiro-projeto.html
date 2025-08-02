@@ -1,2 +1,2 @@
 # primeiro-projeto.html
-conceitos básicos sobre HTML
+Meu primeiro projeto utilizando apenas HTML, bem simples mas muito interessante.
